@@ -37,13 +37,21 @@ O **SecureLogin API** é um sistema PHP que oferece recursos robustos de autenti
 
 ### Configuração
 
-
-1. Clone o repositório: `git clone https://github.com/rubenslyra/SecureLoginAPI`
+1. Clone o repositório: `git clone https://github.com/rubenslyra/SecureLoginAPI.git`
 2. Instale as dependências: `composer install`
 3. Configure o banco de dados em `api/app/database/dbconnection.php`
 4. Configure as chaves JWT em `api/app/config/jwt.php`
 5. Execute o servidor embutido do PHP: `php -S localhost:8000`
 6. Acesse `http://localhost:8000` no seu navegador.
+
+### Front-end
+
+A aplicação front-end utiliza tecnologias como a **Fetch API** para realizar requisições assíncronas. Certifique-se de incluir e configurar essas bibliotecas antes de utilizar a aplicação.
+
+#### Tecnologias Front-end
+
+- **Fetch API:** [Documentação Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- **Outras Bibliotecas JS:** # Adicione outras bibliotecas e suas documentações
 
 ### Testes
 

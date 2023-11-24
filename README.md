@@ -37,7 +37,8 @@ O **SecureLogin API** é um sistema PHP que oferece recursos robustos de autenti
 
 ### Configuração
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+
+1. Clone o repositório: `git clone https://github.com/rubenslyra/SecureLoginAPI`
 2. Instale as dependências: `composer install`
 3. Configure o banco de dados em `api/app/database/dbconnection.php`
 4. Configure as chaves JWT em `api/app/config/jwt.php`

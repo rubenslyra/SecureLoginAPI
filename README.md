@@ -1,6 +1,4 @@
-# SecureLoginAPI
-
-## Projeto SecureLogin API - Gestão de Acesso Comercial
+# Projeto SecureLogin API - Gestão de Acesso Comercial
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-blue)](https://www.php.net/)
 [![Bootstrap Version](https://img.shields.io/badge/bootstrap-5.3.0-blueviolet)](https://getbootstrap.com/)
